@@ -1,8 +1,5 @@
 package koschei.models;
 
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Component;
-
 public class Duck5 {
 
     private final Egg6 egg;
